@@ -1,0 +1,40 @@
+h4{
+	margin:10px 0px;
+	font-weight: bold;
+}
+
+.file-upload .controls {
+  display: none;
+}
+
+.col-ting > div{
+    display: inline-block;
+    margin: 5px;
+}
+
+.file-upload .image-box {
+  margin: 0 auto;
+  height: 120px;
+  width: 120px;
+  background-color: #f7f8f9;
+  border-radius: 5%;
+  cursor: pointer;
+  overflow: hidden;
+  border: 2px solid #f7f8f9;
+}
+.file-upload .image-box img {
+  height: 100%;
+  display: none;
+}
+.file-upload .image-box p {
+  position: relative;
+  font-size: 50px;
+  color: #9ea4aa;
+    line-height: 120px;
+}
+
+textarea{
+    resize: none;
+    border-radius: 30px;
+    width:80%;
+}
